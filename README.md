@@ -95,9 +95,8 @@ public:
 ---
 
 ### 📈 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hoongyap-utmgrad&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 > *Note: Replace `YOUR_GITHUB_USERNAME` in the image URL above with your actual GitHub handle to render your live stats card.*
